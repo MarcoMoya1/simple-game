@@ -1,10 +1,11 @@
 body {
     background-color: #116466;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; */
+    font-family: 'Anybody', cursive;
 }
-
 h1{
-    color: #ffcb9a;
+    color:#d0b08c;
+    text-decoration: underline #d1e8e2;
 }
 
 nav {
@@ -18,10 +19,17 @@ nav ul li {
      list-style-type: none;
      display: inline-block;
      margin-left: 24px;
+   
+ }
+
+ p{
+    font-size: 20px;
+    color: #ffcb9a;
  }
 
  h2{
-    color: #ffcb9a;
+    color: #d0b08c;
+    text-decoration: underline #d1e8e2;
 }
 
 footer {
